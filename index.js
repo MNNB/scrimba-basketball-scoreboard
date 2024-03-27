@@ -16,7 +16,6 @@ function increaseHome3() {
     document.getElementById("home-score").innerText = homeScore += 3
 }
 
-
 function increaseGuest1() {
     console.log("guest +1")
     document.getElementById("guest-score").innerText = guestScore += 1

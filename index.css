@@ -73,9 +73,16 @@ h4 {
 }
 
 #resetBtn {
+    background-color: #F94F6D;
+    border: transparent;
+    border-radius: 4px;
     font-size: 24px;
     font-weight: bold;
     width: 200px;
     padding: 8px 16px;
     margin: 24px 0;
+}
+
+#resetBtn:hover {
+    background-color: red;
 }
